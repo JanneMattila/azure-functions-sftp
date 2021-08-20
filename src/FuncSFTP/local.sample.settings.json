@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "SFTP:Host": "20.21.22.23",
+    "SFTP:Username": "username",
+    "SFTP:Password": "password"
+  }
+}

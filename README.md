@@ -1,2 +1,3 @@
-# azure-functions-sftp
-Azure Functions with SFTP
+# Azure Functions and SFTP
+
+Azure Functions and SFTP

@@ -1,0 +1,9 @@
+@endpoint = http://localhost:7071
+
+### Execute commands
+POST {{endpoint}}/api/file HTTP/1.1
+Content-Type: application/json
+
+{
+    "path": "/home/azureuser/files/example.txt"
+}
